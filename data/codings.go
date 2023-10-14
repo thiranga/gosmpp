@@ -22,7 +22,7 @@ const (
 	// HEBREWCoding is iso-8859-8 coding
 	HEBREWCoding byte = 0x07
 	// UCS2Coding is UCS2 coding
-	UCS2Coding byte = 0x08
+	UCS2Coding byte = 0x18
 )
 
 // EncDec wraps encoder and decoder interface.
